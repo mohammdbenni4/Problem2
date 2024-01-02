@@ -1,0 +1,31 @@
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Application/bin/Debug/net7.0/DeliveryProject.Application.deps.json
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Application/bin/Debug/net7.0/DeliveryProject.Application.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Application/bin/Debug/net7.0/DeliveryProject.Application.pdb
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Application/bin/Debug/net7.0/DeliveryProject.Domain.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Application/bin/Debug/net7.0/DeliveryProject.Domain.pdb
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Application/obj/Debug/net7.0/DeliveryProject.Application.csproj.AssemblyReference.cache
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Application/obj/Debug/net7.0/DeliveryProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Application/obj/Debug/net7.0/DeliveryProject.Application.AssemblyInfoInputs.cache
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Application/obj/Debug/net7.0/DeliveryProject.Application.AssemblyInfo.cs
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Application/obj/Debug/net7.0/DeliveryProject.Application.csproj.CoreCompileInputs.cache
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Application/obj/Debug/net7.0/DeliveryProject.Application.csproj.CopyComplete
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Application/obj/Debug/net7.0/DeliveryProject.Application.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Application/obj/Debug/net7.0/refint/DeliveryProject.Application.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Application/obj/Debug/net7.0/DeliveryProject.Application.pdb
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Application/obj/Debug/net7.0/ref/DeliveryProject.Application.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Application\bin\Debug\net7.0\DeliveryProject.Application.deps.json
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Application\bin\Debug\net7.0\DeliveryProject.Application.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Application\bin\Debug\net7.0\DeliveryProject.Application.pdb
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Application\bin\Debug\net7.0\DeliveryProject.Domain.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Application\bin\Debug\net7.0\DeliveryProject.Domain.pdb
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Application\obj\Debug\net7.0\DeliveryProject.Application.csproj.AssemblyReference.cache
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Application\obj\Debug\net7.0\DeliveryProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Application\obj\Debug\net7.0\DeliveryProject.Application.AssemblyInfoInputs.cache
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Application\obj\Debug\net7.0\DeliveryProject.Application.AssemblyInfo.cs
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Application\obj\Debug\net7.0\DeliveryProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Application\obj\Debug\net7.0\DeliveryProject.Application.csproj.CopyComplete
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Application\obj\Debug\net7.0\DeliveryProject.Application.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Application\obj\Debug\net7.0\refint\DeliveryProject.Application.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Application\obj\Debug\net7.0\DeliveryProject.Application.pdb
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Application\obj\Debug\net7.0\ref\DeliveryProject.Application.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Application\obj\Debug\net7.0\DeliveryProject.Application.sourcelink.json

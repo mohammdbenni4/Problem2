@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{A190CA04-17EA-47E4-A7C6-0932FB4C7CDA}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DeliveryProject.Persistence/Migrations/20240101094852_backToZero.cs">
+    <Files>
+      <File FileName="DeliveryProject.Api/Program.cs" Line="88" Column="29" />
+      <File FileName="DeliveryProject.Persistence/Migrations/20240101094852_backToZero.cs" Line="177" Column="35" />
+      <File FileName="DeliveryProject.Api/Controllers/TestController.cs" Line="14" Column="33" />
+      <File FileName="DeliveryProject.Api/appsettings.json" Line="1" Column="1" />
+      <File FileName="DeliveryProject.Api/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="DeliveryProject.Persistence/Migrations/AppDbContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="DeliveryProject.Persistence/Migrations/20240101094852_backToZero.Designer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DeliveryProject" expanded="True">
+            <Node name="DeliveryProject.Api">
+              <Node name="DeliveryProject" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="DeliveryProject.Application" expanded="True">
+              <Node name="Core" expanded="True">
+                <Node name="Abstractions" expanded="True">
+                  <Node name="Data" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="DeliveryProject.Domain">
+              <Node name="Entities">
+                <Node name="Base" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="DeliveryProject.Persistence" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DeliveryProject.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

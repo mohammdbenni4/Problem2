@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Primitives\**" />
+    <Compile Remove="Repositories\**" />
+    <EmbeddedResource Remove="Primitives\**" />
+    <EmbeddedResource Remove="Repositories\**" />
+    <None Remove="Primitives\**" />
+    <None Remove="Repositories\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Elkood" Version="1.0.5.4" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Entities\" />
+    <None Remove="Entities\Brands\" />
+    <None Remove="Entities\Base\" />
+    <None Remove="Repositories\" />
+    <None Remove="Primitives\" />
+    <None Remove="Entities\Security\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entities\Brands\" />
+    <Folder Include="Entities\Base\" />
+    <Folder Include="Entities\Security\" />
+  </ItemGroup>
+</Project>

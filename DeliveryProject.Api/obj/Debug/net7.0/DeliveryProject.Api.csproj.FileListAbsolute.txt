@@ -1,0 +1,219 @@
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/appsettings.Development.json
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/appsettings.json
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/DeliveryProject.Api
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/DeliveryProject.Api.deps.json
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/DeliveryProject.Api.runtimeconfig.json
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/DeliveryProject.Api.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/DeliveryProject.Api.pdb
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/obj/Debug/net7.0/DeliveryProject.Api.csproj.AssemblyReference.cache
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/obj/Debug/net7.0/DeliveryProject.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/obj/Debug/net7.0/DeliveryProject.Api.AssemblyInfoInputs.cache
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/obj/Debug/net7.0/DeliveryProject.Api.AssemblyInfo.cs
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/obj/Debug/net7.0/DeliveryProject.Api.csproj.CoreCompileInputs.cache
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/obj/Debug/net7.0/DeliveryProject.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/obj/Debug/net7.0/DeliveryProject.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/obj/Debug/net7.0/staticwebassets/msbuild.DeliveryProject.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/obj/Debug/net7.0/staticwebassets/msbuild.build.DeliveryProject.Api.props
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.DeliveryProject.Api.props
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.DeliveryProject.Api.props
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/obj/Debug/net7.0/scopedcss/bundle/DeliveryProject.Api.styles.css
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/obj/Debug/net7.0/DeliveryProject.Api.csproj.CopyComplete
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/obj/Debug/net7.0/DeliveryProject.Api.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/obj/Debug/net7.0/refint/DeliveryProject.Api.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/obj/Debug/net7.0/DeliveryProject.Api.pdb
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/obj/Debug/net7.0/DeliveryProject.Api.genruntimeconfig.cache
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/obj/Debug/net7.0/ref/DeliveryProject.Api.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Discord.Net.Commands.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Discord.Net.Core.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Discord.Net.Interactions.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Discord.Net.Rest.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Discord.Net.Webhook.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Discord.Net.WebSocket.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Google.Api.Gax.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Google.Api.Gax.Rest.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Google.Apis.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Google.Apis.Auth.PlatformServices.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Google.Apis.Auth.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Google.Apis.Core.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Google.Apis.Translate.v2.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Google.Cloud.Translation.V2.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/MailKit.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/MimeKit.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Npgsql.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/PuppeteerSharp.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Scrutor.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/ICSharpCode.SharpZipLib.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/SixLabors.ImageSharp.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/StackExchange.Redis.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Annotations.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Filters.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Filters.Abstractions.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/System.Diagnostics.PerformanceCounter.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/System.Interactive.Async.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/System.Linq.Async.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/System.Net.WebSockets.WebSocketProtocol.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/System.Reactive.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/DeliveryProject.Application.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/DeliveryProject.Domain.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/DeliveryProject.Infrastructure.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/DeliveryProject.Persistence.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/DeliveryProject.Application.pdb
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/DeliveryProject.Infrastructure.pdb
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/DeliveryProject.Persistence.pdb
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/DeliveryProject.Domain.pdb
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Humanizer.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/System.CodeDom.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Elkood.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Api/bin/Debug/net7.0/Elkood.ElBugReport.ElDiscord.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\DeliveryProject.Api.exe
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\DeliveryProject.Api.deps.json
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\DeliveryProject.Api.runtimeconfig.json
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\DeliveryProject.Api.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\DeliveryProject.Api.pdb
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Discord.Net.Commands.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Discord.Net.Core.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Discord.Net.Interactions.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Discord.Net.Rest.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Discord.Net.Webhook.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Discord.Net.WebSocket.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Elkood.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Elkood.ElBugReport.ElDiscord.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Google.Api.Gax.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Google.Api.Gax.Rest.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Google.Apis.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Google.Apis.Auth.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Google.Apis.Core.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Google.Apis.Translate.v2.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Google.Cloud.Translation.V2.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\MailKit.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\MimeKit.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Npgsql.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\PuppeteerSharp.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Scrutor.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\ICSharpCode.SharpZipLib.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\StackExchange.Redis.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\System.Interactive.Async.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\System.Linq.Async.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\System.Reactive.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\DeliveryProject.Application.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\DeliveryProject.Domain.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\DeliveryProject.Infrastructure.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\DeliveryProject.Persistence.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\DeliveryProject.Application.pdb
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\DeliveryProject.Infrastructure.pdb
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\DeliveryProject.Persistence.pdb
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\DeliveryProject.Domain.pdb
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\obj\Debug\net7.0\DeliveryProject.Api.csproj.AssemblyReference.cache
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\obj\Debug\net7.0\DeliveryProject.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\obj\Debug\net7.0\DeliveryProject.Api.AssemblyInfoInputs.cache
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\obj\Debug\net7.0\DeliveryProject.Api.AssemblyInfo.cs
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\obj\Debug\net7.0\DeliveryProject.Api.csproj.CoreCompileInputs.cache
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\obj\Debug\net7.0\DeliveryProject.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\obj\Debug\net7.0\DeliveryProject.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\obj\Debug\net7.0\staticwebassets\msbuild.DeliveryProject.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.DeliveryProject.Api.props
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DeliveryProject.Api.props
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DeliveryProject.Api.props
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\obj\Debug\net7.0\scopedcss\bundle\DeliveryProject.Api.styles.css
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\obj\Debug\net7.0\DeliveryProject.Api.csproj.CopyComplete
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\obj\Debug\net7.0\DeliveryProject.Api.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\obj\Debug\net7.0\refint\DeliveryProject.Api.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\obj\Debug\net7.0\DeliveryProject.Api.pdb
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\obj\Debug\net7.0\DeliveryProject.Api.genruntimeconfig.cache
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\obj\Debug\net7.0\ref\DeliveryProject.Api.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\obj\Debug\net7.0\DeliveryProject.Api.sourcelink.json
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Autofac.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Api\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll

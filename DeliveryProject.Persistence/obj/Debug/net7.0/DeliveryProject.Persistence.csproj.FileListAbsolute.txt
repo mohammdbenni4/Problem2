@@ -1,0 +1,39 @@
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Persistence/obj/Debug/net7.0/DeliveryProject.Persistence.csproj.AssemblyReference.cache
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Persistence/obj/Debug/net7.0/DeliveryProject.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Persistence/obj/Debug/net7.0/DeliveryProject.Persistence.AssemblyInfoInputs.cache
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Persistence/obj/Debug/net7.0/DeliveryProject.Persistence.AssemblyInfo.cs
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Persistence/obj/Debug/net7.0/DeliveryProject.Persistence.csproj.CoreCompileInputs.cache
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Persistence/bin/Debug/net7.0/DeliveryProject.Persistence.deps.json
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Persistence/bin/Debug/net7.0/DeliveryProject.Persistence.runtimeconfig.json
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Persistence/bin/Debug/net7.0/DeliveryProject.Persistence.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Persistence/bin/Debug/net7.0/DeliveryProject.Persistence.pdb
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Persistence/bin/Debug/net7.0/DeliveryProject.Application.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Persistence/bin/Debug/net7.0/DeliveryProject.Domain.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Persistence/bin/Debug/net7.0/DeliveryProject.Application.pdb
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Persistence/bin/Debug/net7.0/DeliveryProject.Domain.pdb
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Persistence/obj/Debug/net7.0/DeliveryProject.Persistence.csproj.CopyComplete
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Persistence/obj/Debug/net7.0/DeliveryProject.Persistence.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Persistence/obj/Debug/net7.0/refint/DeliveryProject.Persistence.dll
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Persistence/obj/Debug/net7.0/DeliveryProject.Persistence.pdb
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Persistence/obj/Debug/net7.0/DeliveryProject.Persistence.genruntimeconfig.cache
+/Users/amirbattal/Projects/DeliveryProject/DeliveryProject.Persistence/obj/Debug/net7.0/ref/DeliveryProject.Persistence.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Persistence\bin\Debug\net7.0\DeliveryProject.Persistence.deps.json
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Persistence\bin\Debug\net7.0\DeliveryProject.Persistence.runtimeconfig.json
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Persistence\bin\Debug\net7.0\DeliveryProject.Persistence.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Persistence\bin\Debug\net7.0\DeliveryProject.Persistence.pdb
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Persistence\bin\Debug\net7.0\DeliveryProject.Application.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Persistence\bin\Debug\net7.0\DeliveryProject.Domain.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Persistence\bin\Debug\net7.0\DeliveryProject.Application.pdb
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Persistence\bin\Debug\net7.0\DeliveryProject.Domain.pdb
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Persistence\obj\Debug\net7.0\DeliveryProject.Persistence.csproj.AssemblyReference.cache
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Persistence\obj\Debug\net7.0\DeliveryProject.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Persistence\obj\Debug\net7.0\DeliveryProject.Persistence.AssemblyInfoInputs.cache
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Persistence\obj\Debug\net7.0\DeliveryProject.Persistence.AssemblyInfo.cs
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Persistence\obj\Debug\net7.0\DeliveryProject.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Persistence\obj\Debug\net7.0\DeliveryProject.Persistence.csproj.CopyComplete
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Persistence\obj\Debug\net7.0\DeliveryProject.Persistence.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Persistence\obj\Debug\net7.0\refint\DeliveryProject.Persistence.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Persistence\obj\Debug\net7.0\DeliveryProject.Persistence.pdb
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Persistence\obj\Debug\net7.0\DeliveryProject.Persistence.genruntimeconfig.cache
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Persistence\obj\Debug\net7.0\ref\DeliveryProject.Persistence.dll
+C:\Users\AL-FARABI\Desktop\projects C#\Elkood Training\deliveryproject3-main\DeliveryProject.Persistence\obj\Debug\net7.0\DeliveryProject.Persistence.sourcelink.json
