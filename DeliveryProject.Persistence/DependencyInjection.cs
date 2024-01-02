@@ -29,16 +29,16 @@ public static class DependencyInjection
 			}
 		});
 
-
-  //      services.AddElIdentity<User, ElIdentityRole, AppDbContext>(options =>
-		//{
-		//	options.Password.RequiredLength = 4;
-		//	options.Password.RequiredUniqueChars = 0;
-		//	options.Password.RequireDigit = false;
-		//	options.Password.RequireNonAlphanumeric = false;
-		//	options.Password.RequireUppercase = false;
-		//	options.Password.RequireLowercase = false;
-		//}).AddJwtBearerAuthentication(configuration);
+        services.ConfigureElRepository(o => { o.OrderByDescending("DateCreated"); });
+        //      services.AddElIdentity<User, ElIdentityRole, AppDbContext>(options =>
+        //{
+        //	options.Password.RequiredLength = 4;
+        //	options.Password.RequiredUniqueChars = 0;
+        //	options.Password.RequireDigit = false;
+        //	options.Password.RequireNonAlphanumeric = false;
+        //	options.Password.RequireUppercase = false;
+        //	options.Password.RequireLowercase = false;
+        //}).AddJwtBearerAuthentication(configuration);
 
         return services;
 	}
